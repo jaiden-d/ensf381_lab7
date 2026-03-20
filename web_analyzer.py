@@ -62,6 +62,6 @@ import matplotlib.pyplot as plt
 labels = ['Headings', 'Links', 'Paragraphs']
 values = [heading_count, links_count, p_count]
 plt.bar(labels, values)
-plt.title('Group#')
+plt.title('Group#17')
 plt.ylabel('Count')
 plt.show()
